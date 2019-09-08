@@ -1,4 +1,4 @@
-title: "Funtional Genomics Fundamentals and Tools"
+title: "Genomics"
 author: JaneShi
 date: September 09, 2019
 knit: (function(input_file, encoding) {

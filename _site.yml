@@ -1,11 +1,11 @@
-name: "cars"
+name: "Genomics"
 output_dir: "docs"
 navbar:
-  title: "Cars"
+  title: "Genomics"
   left:
-  - text: "Home"
+  - text: "Genomics"
    href: index.html
-  - text: "Speed and Distance"
+  - text: "Genomics"
    href: Genomics.html
 output:
   html_document:
